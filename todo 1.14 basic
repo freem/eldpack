@@ -1,30 +1,30 @@
 todo basic 1.14
 + Blue ice done reworked for better tesselation
 Bubble collums
-+buttons pressure plates and trapdoors all wood types done
-+carved pumpkin   already works fine
-conduit
++ buttons pressure plates and trapdoors all wood types done
++ carved pumpkin   already works fine
++ conduit  done sdsquid
 coral
 coral blocks
 coral fans
 dead corals
-+dried kelp block and item   altswang done
-+kelp and item done   altswang done
-+prismarine slabs and stairs done
++ dried kelp block and item   altswang done
++ kelp and item done   altswang done
++ prismarine slabs and stairs done
 seagrass
 sea pickles
-+stripped logs done
-+stripped wood done
++ stripped logs done
++ stripped wood done
 turtle eggs
 arrows of slow falling and turtle
-+exploration maps altswang done
++ exploration maps altswang done
 debug stick
 bucket of fish
-+petrified oak   done
-+heart of the sea   sdsquid version done
-+nautilus shell     sdsquid version done
-+phantom membrane   done
-+potion of slow falling and turtle master  done
++ petrified oak   done
++ heart of the sea   sdsquid version done
++ nautilus shell     sdsquid version done
++ phantom membrane   done
++ potion of slow falling and turtle master  done
 scute   altswang done but looks like a blob not a scale
 turtle shell   altswang done but might be redone
 dolphins
@@ -33,8 +33,8 @@ cod   needs model wrap
 salmon needs model wrap	
 pufferfish needs model wrap	
 tropical fish needs model wraps	
-+phantoms done
-+trident done alt and sd
++ phantoms done
++ trident done alt and sd
 turtles 
 turtle egg
 conduit power status
@@ -42,22 +42,22 @@ dolphins grace status
 slow falling status
 horse model
 
-+netherwart block sd version
++ netherwart block sd version
 magma block
 
-+acacia done
-+anvil gui    replaced with old
-+structure block jman version
++ acacia done
++ anvil gui    replaced with old
++ structure block jman version
 doors and trapdoors
 iron trapdoor
 ender dragon
 chorus fruit
 beetfruit
-+shulker box gui steal from chest   sdsquid complete redone
++ shulker box gui steal from chest   sdsquid complete redone
 pufferfish
 bucket of fish
 lead
-+villager skins sdsquid version
++ villager skins sdsquid version
 illager
 stray
 parrots
@@ -67,11 +67,11 @@ polar bear
 ender mite
 alpaca
 guardians
-+ladder json done
-+sugar cane json done
-+unpowered redstone lamp
++ ladder json done
++ sugar cane json done
++ unpowered redstone lamp
 daylight sensor
-+boats  done sdsquid
++ boats  done sdsquid
 cracked stone bricks
 end stone
-+particles altswang done
++ particles altswang done
