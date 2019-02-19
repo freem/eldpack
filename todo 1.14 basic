@@ -1,6 +1,6 @@
 todo basic 1.14
 + Blue ice done reworked for better tesselation
-Bubble collums
+- Bubble collums Added bubble_pop, its working with / particle but not in game
 + buttons pressure plates and trapdoors all wood types done
 + carved pumpkin   already works fine
 + conduit  done sdsquid
@@ -16,9 +16,9 @@ sea pickles
 + stripped logs done
 + stripped wood done
 turtle eggs
-arrows of slow falling and turtle
++ arrows of slow falling and turtle done
 + exploration maps altswang done
-debug stick
+- debug stick defunct
 bucket of fish
 + petrified oak   done
 + heart of the sea   sdsquid version done
@@ -75,3 +75,4 @@ daylight sensor
 cracked stone bricks
 end stone
 + particles altswang done
+conduit wind redo
