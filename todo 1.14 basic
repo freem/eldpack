@@ -76,4 +76,5 @@ cracked stone bricks
 end stone
 + particles altswang done
 conduit wind redo
-bed redo
++ jukebox and noteblock redo bottoms added both use notebloc_bottom.png for the bottoms but the noteblock has a custom top
++ fixed chest z-fighting
