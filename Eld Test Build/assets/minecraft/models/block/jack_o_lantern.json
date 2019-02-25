@@ -1,6 +1,7 @@
 {
     "parent": "block/cube",
     "textures": {
+		"particle": "block/pumpkin_side",
 		"down": "block/pumpkin_bottom",
         "up": "block/pumpkin_top",
         "north": "block/jack_o_lantern",

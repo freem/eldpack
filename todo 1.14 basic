@@ -78,4 +78,4 @@ end stone
 conduit wind redo
 + jukebox and noteblock redo bottoms added both use notebloc_bottom.png for the bottoms but the noteblock has a custom top
 + fixed chest z-fighting
-+ added pumpkin and melon bottoms
++ added pumpkin and melon bottoms and particle texture
