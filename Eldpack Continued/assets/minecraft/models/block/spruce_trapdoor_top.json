@@ -1,0 +1,19 @@
+{
+    "textures": {
+        "particle": "#texture",
+        "texture": "minecraft:block/spruce_trapdoor"
+    },
+    "elements": [
+        {   "from": [ 0, 13, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#texture" },
+                "up":    { "uv": [ 0, 16, 16,  0 ], "texture": "#texture", "cullface": "up" },
+                "north": { "uv": [ 16, 3,  0,  0 ], "texture": "#texture", "cullface": "north" },
+                "south": { "uv": [ 0,  0, 16,  3 ], "texture": "#texture", "cullface": "south" },
+                "west":  { "uv": [ 4,  0,  7, 16 ], "rotation": 90, "texture": "#texture", "cullface": "west" },
+                "east":  { "uv": [ 0, 16,  3,  0 ], "rotation": 90, "texture": "#texture", "cullface": "east" }
+            }
+        }
+    ]
+}
