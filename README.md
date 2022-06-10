@@ -4,9 +4,12 @@ Eldpack Continued
 
 This is a continuation of the [Eldpack](https://eldpack.com/) resource pack for Minecraft.
 
+Currently, it is only available for Java Edition, but a Bedrock Edition version
+of the resource pack is also under development.
+
 (todo: better README)
 
-- The "Eldpack Continued" directory contains the texture pack for v1.15 and above, including some WIP work on v1.16 additions.
+- The "Eldpack Continued" directory contains the texture pack for v1.19.
 - The "old_stuff" directory contains the contents of the repository before v1.14.
 - An older WIP v1.14 port is available on the "dev" branch (as of this writing). Some contents from this version have been merged back into the main branch.
 
