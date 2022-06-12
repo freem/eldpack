@@ -1,0 +1,51 @@
+Eldpack Continued - Bedrock Edition | Known Issues
+==================================================
+This document covers known issues in Eldpack Continued - Bedrock Edition v0.0.1.
+
+The short list:
+- UI differences
+- Missing things
+- Some blocks don't animate
+- Items that should animate don't
+- Missing textures for Bedrock-specific stuff
+- Observer texture issue
+
+--------------------------------------------------------------------------------
+UI differences
+--------------------------------------------------------------------------------
+The Bedrock Edition UI is considerably different than the Java Edition.
+It will take a while for the UI to be ported, though with the existence of
+https://mcpedl.com/vanilla-deluxe-mixed-ui/
+it seems possible to do...
+
+--------------------------------------------------------------------------------
+Missing things
+--------------------------------------------------------------------------------
+- horse hearts
+many other things that i haven't bothered checking for
+
+--------------------------------------------------------------------------------
+Some blocks don't animate
+--------------------------------------------------------------------------------
+This is a fixable issue. However, since the animation syntax differs between
+Java and Bedrock, I cannot guarantee 1:1 translations of animation sequences.
+
+--------------------------------------------------------------------------------
+Items that should animate don't
+--------------------------------------------------------------------------------
+I was unable to get items to animate via flipbook_textures.json.
+Unsure if this is intended, or if it's a bug.
+
+--------------------------------------------------------------------------------
+Missing textures for Bedrock-specific stuff
+--------------------------------------------------------------------------------
+- arrow of decay
+- potions (bedrock has a different texture system that's a pain)
+- anything for Education Edition
+probably tons of other things as well
+
+--------------------------------------------------------------------------------
+Observer texture issue
+--------------------------------------------------------------------------------
+One of the Observer sides is displayed upside down.
+Unsure if this is a bug in the original terrain_texture.json or not.

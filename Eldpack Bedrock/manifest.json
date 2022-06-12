@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Eldpack for Bedrock Edition",
+      "name": "Eldpack Bedrock",
+      "uuid":"83f06478-c2dc-49fd-a288-df85de03ec67",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "Eldpack for Bedrock Edition",
+        "type": "resources",
+        "uuid": "5b4680a2-05a3-4c41-9667-cd196ea3d31e",
+        "version": [1, 0, 0]
+      }
+    ],
+	"metadata": {
+		"url": "https://github.com/freem/eldpack"
+	}
+}

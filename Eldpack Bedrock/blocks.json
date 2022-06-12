@@ -1,0 +1,19 @@
+{
+  "noteblock" : {
+    "textures" : {
+      "down": "noteblock_bottom",
+      "east": "noteblock_side",
+      "north": "noteblock_side",
+      "south": "noteblock_side",
+      "up": "noteblock_top",
+      "west": "noteblock_side"
+    }
+  },
+  "jukebox" : {
+    "textures" : {
+      "down": "noteblock_bottom",
+      "side": "jukebox_side",
+      "up": "jukebox_top"
+    }
+  }
+}
