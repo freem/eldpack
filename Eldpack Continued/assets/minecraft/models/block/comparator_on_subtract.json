@@ -75,18 +75,18 @@
 		},
 		{
 			"from": [7, 2, 1],
-			"to": [9, 7, 5],
+			"to": [9, 6, 5],
 			"faces": {
-				"east": {"uv": [6, 4, 10, 9], "texture": "#lit"},
-				"west": {"uv": [6, 4, 10, 9], "texture": "#lit"}
+				"east": {"uv": [6, 4, 10, 8], "texture": "#lit"},
+				"west": {"uv": [6, 4, 10, 8], "texture": "#lit"}
 			}
 		},
 		{
 			"from": [6, 2, 2],
-			"to": [10, 7, 4],
+			"to": [10, 6, 4],
 			"faces": {
-				"north": {"uv": [6, 4, 10, 9], "texture": "#lit"},
-				"south": {"uv": [6, 4, 10, 9], "texture": "#lit"}
+				"north": {"uv": [6, 4, 10, 8], "texture": "#lit"},
+				"south": {"uv": [6, 4, 10, 8], "texture": "#lit"}
 			}
 		}
 	]
