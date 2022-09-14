@@ -34,5 +34,18 @@
     "ticks_per_frame": 3,
 	"blend_frames": false,
 	"frames": [0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/lava_still",
+    "atlas_tile": "still_lava",
+    "ticks_per_frame": 8,
+	"blend_frames": false
+  },
+  {
+    "flipbook_texture": "textures/blocks/lava_flow",
+    "atlas_tile": "flowing_lava",
+    "ticks_per_frame": 5,
+	"blend_frames": false,
+    "replicate": 2
   }
 ]
