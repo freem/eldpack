@@ -20,5 +20,19 @@
     "ticks_per_frame": 4,
     "blend_frames": false,
     "frames": [0, 1, 2, 3, 2, 1]
+  },
+  {
+    "flipbook_texture": "textures/blocks/furnace_front_on",
+    "atlas_tile": "furnace_front_on",
+    "ticks_per_frame": 3,
+	"blend_frames": false,
+	"frames": [0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/smoker_front_on",
+    "atlas_tile": "smoker_front_on",
+    "ticks_per_frame": 3,
+	"blend_frames": false,
+	"frames": [0, 1, 2, 3, 4]
   }
 ]
