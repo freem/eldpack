@@ -47,5 +47,15 @@
     "ticks_per_frame": 5,
 	"blend_frames": false,
     "replicate": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/diamond_ore",
+    "atlas_tile": "diamond_ore",
+    "ticks_per_frame": 2.5
+  },
+  {
+    "flipbook_texture": "textures/blocks/deepslate/deepslate_diamond_ore",
+    "atlas_tile": "deepslate_diamond_ore",
+    "ticks_per_frame": 2.5
   }
 ]

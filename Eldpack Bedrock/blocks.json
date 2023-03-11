@@ -15,5 +15,16 @@
       "side": "jukebox_side",
       "up": "jukebox_top"
     }
+    },
+    "observer": {
+      "sound": "metal",
+      "textures": {
+        "down": "observer_bottom",
+        "east": "observer_east",
+        "north": "observer_north",
+        "south": "observer_south",
+        "up": "observer_top",
+        "west": "observer_west"
+      }
+    }
   }
-}

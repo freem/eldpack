@@ -10,6 +10,9 @@
     "noteblock_side": {
       "textures": "textures/blocks/noteblock"
     }
-  },
-  "texture_name" : "atlas.terrain"
+    },
+    "crafting_table_bottom": {
+      "textures": "textures/blocks/crafting_table_bottom"
+    },
+      "texture_name" : "atlas.terrain"
 }
