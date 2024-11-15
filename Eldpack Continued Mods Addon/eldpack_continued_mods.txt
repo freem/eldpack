@@ -1,0 +1,31 @@
+Eldpack Continued Mods Addon
+============================
+Previous releases of the Eldpack Continued resource pack included mod support
+as a part of the main archive.
+
+This addon is meant to be used with Minecraft Java Edition.
+
+============
+Mods & Files
+============
+
+[Beenfo]
+assets/beenfo/textures/gui/beenfo.png
+assets/beenfo/textures/gui/ingame.png
+
+[Chat Patches]
+assets/chatpatches/textures/
+
+[Cloth Config]
+assets/cloth-config2/textures/gui/cloth_config.png
+
+[Iris]
+assets/iris/textures/gui/widgets.png
+
+[Mod Menu]
+assets/modmenu/minecraft_icon.png
+assets/modmenu/unknown_icon.png
+assets/modmenu/textures/gui/
+
+[No Chat Reports]
+assets/nochatreports/gui/
