@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 86.2,
+    "min_format": [55, 0],
+    "max_format": [87, 0],
     "description": "Eldpack Continued v26.2 WIP"
   }
 }
